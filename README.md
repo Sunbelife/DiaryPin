@@ -1,5 +1,5 @@
 # DiaryPin
-####on macOS：
+#### on macOS：
 
 add a a time/weather statics to your Diary 
 
